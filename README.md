@@ -1,8 +1,10 @@
 TalentScout Hiring Assistant 🤖
+
 An AI-powered hiring assistant chatbot built with Streamlit and Google’s Gemini API. It helps recruitment agencies like TalentScout conduct initial candidate screenings in a structured, conversational, and friendly way.
 
 
 ✨ Features
+
    •	👋 Warm Greetings & Clear Purpose – chatbot introduces itself and explains the process.
    •	📝 Step-by-Step Candidate Screening – collects details in order: Full Name, Email Address, Phone Number, Years of Experience, Desired Position(s), Current Location, Tech Stack (programming languages,  frameworks, databases, tools).
    •	❓ Dynamic Technical Questions – automatically generates 3–5 questions tailored to the candidate’s declared skills.
